@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aimedbouguerra/daylindo/static/css/main.cd09214c.chunk.css",
+    "main.js": "/aimedbouguerra/daylindo/static/js/main.8d30408c.chunk.js",
+    "main.js.map": "/aimedbouguerra/daylindo/static/js/main.8d30408c.chunk.js.map",
+    "runtime-main.js": "/aimedbouguerra/daylindo/static/js/runtime-main.f9fcdc41.js",
+    "runtime-main.js.map": "/aimedbouguerra/daylindo/static/js/runtime-main.f9fcdc41.js.map",
+    "static/js/2.59279e9b.chunk.js": "/aimedbouguerra/daylindo/static/js/2.59279e9b.chunk.js",
+    "static/js/2.59279e9b.chunk.js.map": "/aimedbouguerra/daylindo/static/js/2.59279e9b.chunk.js.map",
+    "static/js/3.23cf980f.chunk.js": "/aimedbouguerra/daylindo/static/js/3.23cf980f.chunk.js",
+    "static/js/3.23cf980f.chunk.js.map": "/aimedbouguerra/daylindo/static/js/3.23cf980f.chunk.js.map",
+    "index.html": "/aimedbouguerra/daylindo/index.html",
+    "static/css/main.cd09214c.chunk.css.map": "/aimedbouguerra/daylindo/static/css/main.cd09214c.chunk.css.map",
+    "static/js/2.59279e9b.chunk.js.LICENSE.txt": "/aimedbouguerra/daylindo/static/js/2.59279e9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9fcdc41.js",
+    "static/js/2.59279e9b.chunk.js",
+    "static/css/main.cd09214c.chunk.css",
+    "static/js/main.8d30408c.chunk.js"
+  ]
+}
